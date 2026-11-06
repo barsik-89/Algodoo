@@ -223,4 +223,4 @@ Algodoo is offered as a full free version, allowing access to all features and u
 Unlock the joy of learning physics today! Download Algodoo for free and start your educational adventure!
 
 ---
-**Last updated:** 2026-11-06 08:43:10 UTC
+**Last updated:** 2026-11-06 16:27:45 UTC
